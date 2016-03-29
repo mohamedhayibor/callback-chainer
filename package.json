@@ -1,0 +1,20 @@
+{
+  "name": "callback-chainer",
+  "version": "0.0.1",
+  "description": "trigger callbacks in a specific order one feeding the next and so on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedhayibor/callback-chainer.git"
+  },
+  "keywords": ["callback", "chainer", "callback-chainer", "calling", "funnctions"],
+  "author": "Mohamed Hayibor <mohamedhayibor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedhayibor/callback-chainer/issues"
+  },
+  "homepage": "https://github.com/mohamedhayibor/callback-chainer#readme"
+}
